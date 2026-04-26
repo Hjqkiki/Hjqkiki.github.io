@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "KiKi's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "https://hjqkiki.github.io"
+title                        : "KiKi's Homepage"
+description                  : "Personal academic website of Jiangqi Huang, undergraduate student at Sun Yat-sen University focusing on AI, Agents, and Robotics."
+repository                   : "hjqkiki/hjqkiki.github.io"
+url                          : "https://hjqkiki.github.io"
+baseurl                      : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
