@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: ""
@@ -16,6 +17,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+-->
 
 I am an undergraduate student majoring in Artificial Intelligence at Sun Yat-sen University (SYSU). Currently, I am a research intern at the HaiA (Human-AI Augmentation) Lab, advised by Assoc. Prof. Zhenhui Peng. 
 
@@ -27,16 +29,14 @@ My research interests lie in the intersection of **Human-AI/Agent/Robot Collabor
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications & Research Experience
+# 📝 Publications and Research Experience
 
-- **HistoriMind: Externalizing Historical Thinking into a Structured Inquiry Environment on Wikipedia**  
-  Yingying Sheng*, **Jiangqi Huang***, Yinuo Zhao*, Zhenhui Peng*  
-
+- **HistoriMind: Externalizing Historical Thinking into a Structured Inquiry Environment on Wikipedia** Yingying Sheng\*, **Jiangqi Huang**\*, Yinuo Zhao\*, Zhenhui Peng<sup>†</sup>  
   *Status:* Under review at IJHCI (CCF-B), 2024.11 – Present  
   *Award:* Excellent Conclusion (Top 30%), 2025 Undergraduate Innovation Training Program  
 
-  - Developed a full-stack inquiry system (React + FastAPI) integrating Wikipedia with LLMs  
-  - Designed a Socratic-method-based LLM interaction module to promote critical thinking through guided dialogue  
+  - Developed a full-stack inquiry system (React + FastAPI) integrating Wikipedia with LLMs
+  - Designed a Socratic-method-based LLM interaction module to promote critical thinking through guided dialogue
 
 
 # 🎖 Honors and Awards
