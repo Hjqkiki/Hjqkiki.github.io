@@ -1,4 +1,3 @@
-<!--
 ---
 permalink: /
 title: ""
@@ -17,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
--->
+
 
 I am an undergraduate student majoring in Artificial Intelligence at Sun Yat-sen University (SYSU). Currently, I am a research intern at the HaiA (Human-AI Augmentation) Lab, advised by Assoc. Prof. Zhenhui Peng. 
 
